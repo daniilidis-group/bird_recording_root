@@ -1,0 +1,24 @@
+[submodule "src/apriltag"]
+	path = src/apriltag
+	url = https://github.com/versatran01/apriltag.git
+[submodule "src/bgp"]
+	path = src/bgp
+	url = https://github.com/berndpfrommer/bgp.git
+[submodule "src/camera_base"]
+	path = src/camera_base
+	url = https://github.com/KumarRobotics/camera_base.git
+[submodule "src/flea3"]
+	path = src/flea3
+	url = https://github.com/KumarRobotics/flea3.git
+[submodule "src/catkin_simple"]
+	path = src/catkin_simple
+	url = https://github.com/catkin/catkin_simple.git
+[submodule "src/gtsam_catkin"]
+	path = src/gtsam_catkin
+	url = https://github.com/ethz-asl/gtsam_catkin.git
+[submodule "src/bird_recording"]
+	path = src/bird_recording
+	url = https://github.com/daniilidis-group/bird_recording.git
+[submodule "src/cam_sync"]
+	path = src/cam_sync
+	url = https://github.com/daniilidis-group/cam_sync.git
