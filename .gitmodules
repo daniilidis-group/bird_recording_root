@@ -22,3 +22,5 @@
 [submodule "src/cam_sync"]
 	path = src/cam_sync
 	url = https://github.com/daniilidis-group/cam_sync.git
+[submodule "bird_recording"]
+	branch = master
