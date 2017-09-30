@@ -14,8 +14,7 @@ user, don't forget to run "rosdep update" and update the .bashrc file.
 	cd Documents
 	git clone https://github.com/daniilidis-group/birds.git
 	cd birds
-	git submodule init
-	git submodule update
+	./update_submodules.bash
 	catkin build
 
 ## Using
