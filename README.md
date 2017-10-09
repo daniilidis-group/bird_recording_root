@@ -20,6 +20,8 @@ user, don't forget to run "rosdep update" and update the .bashrc file.
 If you have never used ROS before on this machine, do this:
 
 	rosdep update
+	echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+	source ~/.bashrc
 
 catkin build
 
