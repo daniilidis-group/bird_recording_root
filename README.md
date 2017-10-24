@@ -15,7 +15,6 @@ user, don't forget to run "rosdep update" and update the .bashrc file.
 	git clone https://github.com/daniilidis-group/birds.git
 	cd birds
 	./update_submodules.bash
-	git submodule update
 
 If you have never used ROS before on this machine, do this:
 
