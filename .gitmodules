@@ -12,7 +12,7 @@
 	branch = master
 [submodule "src/flea3"]
 	path = src/flea3
-	url = https://github.com/KumarRobotics/flea3.git
+	url = https://github.com/berndpfrommer/flea3.git
 	branch = master
 [submodule "src/catkin_simple"]
 	path = src/catkin_simple
