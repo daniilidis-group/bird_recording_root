@@ -13,14 +13,15 @@
 [submodule "src/catkin_simple"]
 	path = src/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
-[submodule "src/gtsam_catkin"]
-	path = src/gtsam_catkin
-	url = https://github.com/ethz-asl/gtsam_catkin.git
 [submodule "src/bird_recording"]
 	path = src/bird_recording
 	url = https://github.com/daniilidis-group/bird_recording.git
 [submodule "src/cam_sync"]
 	path = src/cam_sync
 	url = https://github.com/daniilidis-group/cam_sync.git
-[submodule "bird_recording"]
-	branch = master
+[submodule "src/tagslam"]
+	path = src/tagslam
+	url = https://github.com/berndpfrommer/tagslam.git
+[submodule "src/audio_common"]
+	path = src/audio_common
+	url = https://github.com/ros-drivers/audio_common.git
