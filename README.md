@@ -11,6 +11,12 @@ Prerequisite: working installation of ROS kinetic
 (http://wiki.ros.org/kinetic/Installation/Ubuntu). If this is a new
 user, don't forget to run "rosdep update" and update the .bashrc file.
 
+If you have never used ROS before on this machine, do this:
+
+	rosdep update
+	echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+	source ~/.bashrc
+
 Install GTSAM from the ppa:
 
     sudo apt-add-repository ppa:bernd-pfrommer/gtsam
@@ -27,6 +33,7 @@ Download and compile all bird code:
 	git clone https://github.com/daniilidis-group/birds.git
 	cd birds
 	./update_submodules.bash
+	catkin config -DCMAKE_BUILD_TYPE=Release
 	catkin build
 
 ## Using

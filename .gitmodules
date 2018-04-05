@@ -4,18 +4,23 @@
 [submodule "src/bgp"]
 	path = src/bgp
 	url = https://github.com/berndpfrommer/bgp.git
+	branch = master
 [submodule "src/camera_base"]
 	path = src/camera_base
 	url = https://github.com/KumarRobotics/camera_base.git
+	branch = master
 [submodule "src/flea3"]
 	path = src/flea3
-	url = https://github.com/KumarRobotics/flea3.git
+	url = https://github.com/berndpfrommer/flea3.git
+	branch = master
 [submodule "src/catkin_simple"]
 	path = src/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
+	branch = master
 [submodule "src/bird_recording"]
 	path = src/bird_recording
 	url = https://github.com/daniilidis-group/bird_recording.git
+	branch = master
 [submodule "src/cam_sync"]
 	path = src/cam_sync
 	url = https://github.com/daniilidis-group/cam_sync.git
