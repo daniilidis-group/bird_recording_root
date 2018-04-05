@@ -1,6 +1,6 @@
 [submodule "src/apriltag"]
 	path = src/apriltag
-	url = https://github.com/versatran01/apriltag.git
+	url = https://github.com/berndpfrommer/apriltag.git
 [submodule "src/bgp"]
 	path = src/bgp
 	url = https://github.com/berndpfrommer/bgp.git
