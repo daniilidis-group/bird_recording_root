@@ -23,9 +23,11 @@ Install GTSAM from the ppa:
     sudo apt update
     sudo apt install gtsam
 
-You may also need the ``catkin build`` command:
+You may also need the ``catkin build`` command, and gstreamer for
+audio recording:
 
     sudo apt install python-catkin-tools
+	sudo apt install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
 
 Download and compile all bird code:
 
