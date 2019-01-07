@@ -36,3 +36,6 @@
 [submodule "src/downsampling_image_transport"]
 	path = src/downsampling_image_transport
 	url = https://github.com/daniilidis-group/downsampling_image_transport.git
+[submodule "src/ffmpeg_image_transport_msgs"]
+	path = src/ffmpeg_image_transport_msgs
+	url = https://github.com/daniilidis-group/ffmpeg_image_transport_msgs.git
