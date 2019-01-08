@@ -48,3 +48,6 @@
 [submodule "src/bird_audio"]
 	path = src/bird_audio
 	url = https://github.com/daniilidis-group/bird_audio.git
+[submodule "src/ros_nagios_diagnostics"]
+	path = src/ros_nagios_diagnostics
+	url = https://github.com/berndpfrommer/ros_nagios_diagnostics.git
