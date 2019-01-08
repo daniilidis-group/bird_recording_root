@@ -29,7 +29,7 @@
 	url = https://github.com/berndpfrommer/tagslam.git
 [submodule "src/audio_common"]
 	path = src/audio_common
-	url = https://github.com/ros-drivers/audio_common.git
+	url = https://github.com/daniilidis-group/audio_common.git
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
@@ -45,3 +45,6 @@
 [submodule "src/flex_sync"]
 	path = src/flex_sync
 	url = https://github.com/daniilidis-group/flex_sync.git
+[submodule "src/bird_audio"]
+	path = src/bird_audio
+	url = https://github.com/daniilidis-group/bird_audio.git
