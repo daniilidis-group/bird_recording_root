@@ -51,3 +51,6 @@
 [submodule "src/ros_nagios_diagnostics"]
 	path = src/ros_nagios_diagnostics
 	url = https://github.com/berndpfrommer/ros_nagios_diagnostics.git
+[submodule "src/ffmpeg_image_transport"]
+	path = src/ffmpeg_image_transport
+	url = https://github.com/daniilidis-group/ffmpeg_image_transport.git
