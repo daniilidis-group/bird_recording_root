@@ -50,3 +50,6 @@
 [submodule "src/ffmpeg_image_transport"]
 	path = src/ffmpeg_image_transport
 	url = https://github.com/daniilidis-group/ffmpeg_image_transport.git
+[submodule "camera_base"]
+	path = camera_base
+	url = https://github.com/berndpfrommer/camera_base.git
