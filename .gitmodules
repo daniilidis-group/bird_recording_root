@@ -7,7 +7,7 @@
 	branch = master
 [submodule "src/camera_base"]
 	path = src/camera_base
-	url = https://github.com/KumarRobotics/camera_base.git
+        url = https://github.com/berndpfrommer/camera_base.git
 	branch = master
 [submodule "src/flea3"]
 	path = src/flea3
