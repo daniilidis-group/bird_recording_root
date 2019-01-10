@@ -5,10 +5,6 @@
 	path = src/bgp
 	url = https://github.com/berndpfrommer/bgp.git
 	branch = master
-[submodule "src/camera_base"]
-	path = src/camera_base
-        url = https://github.com/berndpfrommer/camera_base.git
-	branch = master
 [submodule "src/flea3"]
 	path = src/flea3
 	url = https://github.com/berndpfrommer/flea3.git
