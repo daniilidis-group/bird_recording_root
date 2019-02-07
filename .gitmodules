@@ -53,3 +53,6 @@
 [submodule "camera_base"]
 	path = src/camera_base
 	url = https://github.com/berndpfrommer/camera_base.git
+[submodule "src/ros_onewire_server"]
+	path = src/ros_onewire_server
+	url = https://github.com/berndpfrommer/ros_onewire_server.git
