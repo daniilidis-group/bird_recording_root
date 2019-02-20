@@ -26,9 +26,6 @@
 [submodule "src/audio_common"]
 	path = src/audio_common
 	url = https://github.com/daniilidis-group/audio_common.git
-[submodule "FFmpeg"]
-	path = FFmpeg
-	url = https://github.com/FFmpeg/FFmpeg.git
 [submodule "src/downsampling_image_transport"]
 	path = src/downsampling_image_transport
 	url = https://github.com/daniilidis-group/downsampling_image_transport.git
