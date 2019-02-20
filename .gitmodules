@@ -53,3 +53,6 @@
 [submodule "camera_base"]
 	path = camera_base
 	url = https://github.com/berndpfrommer/camera_base.git
+[submodule "src/annotator"]
+	path = src/annotator
+	url = https://github.com/daniilidis-group/annotator.git
