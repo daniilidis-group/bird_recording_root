@@ -51,8 +51,11 @@
 	path = src/ffmpeg_image_transport
 	url = https://github.com/daniilidis-group/ffmpeg_image_transport.git
 [submodule "camera_base"]
-	path = camera_base
+	path = src/camera_base
 	url = https://github.com/berndpfrommer/camera_base.git
 [submodule "src/annotator"]
 	path = src/annotator
 	url = https://github.com/daniilidis-group/annotator.git
+[submodule "src/ros_onewire_server"]
+	path = src/ros_onewire_server
+	url = https://github.com/berndpfrommer/ros_onewire_server.git

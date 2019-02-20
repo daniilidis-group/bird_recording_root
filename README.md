@@ -28,6 +28,7 @@ audio recording:
 
     sudo apt install python-catkin-tools
 	sudo apt install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
+    sudo apt install libfftw3-dev
 
 Download and compile all bird code:
 
@@ -36,7 +37,11 @@ Download and compile all bird code:
 	cd birds
 	./update_submodules.bash
 	catkin config -DCMAKE_BUILD_TYPE=Release
-	catkin build
+	catkin build -c
+
+On Ubuntu 16.04, you will likely get an error for the ``ffmpeg_image_transport`` package. That is because
+the version of FFMPeg is outdated, so you need to
+[build your own version for it.](https://github.com/daniilidis-group/ffmpeg_image_transport/blob/master/docs/compile_ffmpeg.md)
 
 ## Using
 
