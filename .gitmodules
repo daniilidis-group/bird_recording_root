@@ -1,10 +1,6 @@
 [submodule "src/apriltag"]
 	path = src/apriltag
 	url = https://github.com/berndpfrommer/apriltag.git
-[submodule "src/bgp"]
-	path = src/bgp
-	url = https://github.com/berndpfrommer/bgp.git
-	branch = master
 [submodule "src/flea3"]
 	path = src/flea3
 	url = https://github.com/berndpfrommer/flea3.git
